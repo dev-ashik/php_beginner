@@ -1,0 +1,10 @@
+1. String
+2. Integer
+3. Float
+4. Boolean
+5. Array
+6. Object
+7. Null
+8. Resorse
+9. object 
+

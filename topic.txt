@@ -1,0 +1,47 @@
+                                                      beginer topic
+
+ print/echo
+1. variable
+2. dataType
+dataType_check
+______coment________
+string
+string_space
+string_function
+	 a. strlen   b. str_word_count    c. strrev   d. strpos    e. str_replace
+if else
+Operators
+switch
+
+loop_forLoop
+loop_whileLoop
+loop_doWhileLoop
+________loop_forEachLoop________
+
+local and global variable
+super global variable
+
+array_sort
+constant
+
+defaultFunction
+function
+   F_reverseSort
+
+
+get value
+
+input value
+
+reverse sort
+server
+superglobal
+
+
+4. constant
+
+class
+require 
+     pass data with location
+redirect function
+       ____pre tag___
